@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Admetta brand preview">
+  <rect width="1200" height="630" fill="#0a0414"/>
+  <path d="M0 500 1200 180" stroke="#2d0c57" stroke-width="180" opacity=".7"/>
+  <path d="M160 480 1040 220" stroke="#ff2e93" stroke-width="10" opacity=".8"/>
+  <g transform="translate(520 165) rotate(45)" fill="none" stroke="#ff2e93" stroke-width="18">
+    <path d="M10 0v140q0 50 50 50h25V0"/>
+    <path d="M115 0v140q0 50 50 50h25V0"/>
+  </g>
+  <text x="600" y="430" text-anchor="middle" fill="#fff" font-family="Syne, Arial, sans-serif" font-size="92" font-weight="800">Admetta</text>
+  <text x="600" y="488" text-anchor="middle" fill="#b8a9cc" font-family="DM Sans, Arial, sans-serif" font-size="32">Bold strategy. Vibrant creativity.</text>
+</svg>

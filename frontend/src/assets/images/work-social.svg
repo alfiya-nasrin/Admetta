@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" role="img" aria-label="Social media work placeholder">
+  <rect width="900" height="680" fill="#0a0414"/><path d="M0 560 900 210" stroke="#ff2e93" stroke-width="80" opacity=".3"/><path d="M0 240 900 40" stroke="#2d0c57" stroke-width="170" opacity=".8"/>
+  <rect x="120" y="120" width="185" height="185" fill="#1a0a2e" stroke="#b8a9cc" opacity=".75"/><rect x="358" y="160" width="185" height="185" fill="#2d0c57"/><rect x="595" y="210" width="185" height="185" fill="#1a0a2e" stroke="#ff2e93"/>
+  <circle cx="215" cy="430" r="72" fill="#ff2e93" opacity=".75"/><circle cx="450" cy="470" r="72" fill="#fff" opacity=".13"/><circle cx="685" cy="520" r="72" fill="#2d0c57"/>
+</svg>
