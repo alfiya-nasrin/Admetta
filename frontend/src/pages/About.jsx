@@ -21,14 +21,6 @@ export default function About() {
         </div>
       </section>
 
-      <div className="orb-row-divider" aria-hidden="true">
-        <div className="orb-circle purple" />
-        <div className="orb-circle pink" />
-        <div className="orb-circle purple" />
-        <div className="orb-circle pink" />
-        <div className="orb-circle purple" />
-      </div>
-
       <section className="section light-section">
         <div className="container two-column">
           <div className="reveal">
@@ -56,9 +48,7 @@ export default function About() {
       </section>
 
       <section className="statement-band" style={{ padding: "100px 0" }}>
-        <div className="diagonal-grid-overlay" />
-        <div className="orb-glow-overlay" />
-        <div className="container reveal" style={{ position: "relative", zIndex: 2 }}>
+        <div className="container reveal">
           <h2 style={{ fontSize: "clamp(32px, 5vw, 64px)", lineHeight: "1.1", color: "#ffffff", maxWidth: "900px", margin: "0 auto" }}>
             Our mission is to build brands that move people, markets, and momentum.
           </h2>
