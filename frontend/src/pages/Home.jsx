@@ -13,9 +13,9 @@ export default function Home() {
           <div className="hero-copy reveal">
             <p className="eyebrow">Bold strategy. Vibrant creativity.</p>
             <h1 className="hero-stack">
-              <span className="stack-word" style={{ animationDelay: '0s' }}>Strategy</span>
-              <span className="stack-word" style={{ animationDelay: '0.15s' }}>Design</span>
-              <span className="stack-word" style={{ animationDelay: '0.3s' }}>Impact</span>
+              <span className="stack-word" style={{ animationDelay: "0s" }}>Strategy</span>
+              <span className="stack-word" style={{ animationDelay: "0.15s" }}>Design</span>
+              <span className="stack-word" style={{ animationDelay: "0.3s" }}>Impact</span>
             </h1>
             <p className="hero-text">
               We design and build brand identities, high-performing websites, and advertising campaigns that demand attention.
@@ -57,9 +57,7 @@ export default function Home() {
       </section>
 
       <section className="statement-band">
-        <div className="diagonal-grid-overlay" />
-        <div className="orb-glow-overlay" />
-        <div className="container" style={{ position: "relative", zIndex: 2 }}>
+        <div className="container">
           <h2>
             <span>We Build Brands</span>
             <span style={{ color: "var(--accent)" }}>And With Brands</span>

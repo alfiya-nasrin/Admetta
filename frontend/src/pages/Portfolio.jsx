@@ -2,18 +2,7 @@ import React from "react";
 import CtaBand from "../components/CtaBand";
 import { posters } from "../constants/posters";
 
-const getCardClass = (size) => {
-  switch (size) {
-    case "2x2":
-      return "big";
-    case "2x1":
-      return "wide";
-    case "1x2":
-      return "tall";
-    default:
-      return "";
-  }
-};
+
 
 export default function Portfolio() {
   const visibleProjects = posters;
@@ -36,7 +25,7 @@ export default function Portfolio() {
         <div className="container">
           <div className="portfolio-grid">
             {visibleProjects.map((poster, idx) => (
-              <article className={`portfolio-card reveal ${getCardClass(poster.size)}`} key={idx}>
+              <article className="portfolio-card reveal" key={idx}>
                                 <img src={poster.src} alt={poster.title} srcSet={`${poster.src} 1x, ${poster.src} 2x`} />
                 <div>
                   <span>{poster.title}</span>
